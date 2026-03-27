@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a 3rd-year B.Tech Data Science student passionate about working with data and building machine learning solutions.<br>I’m continuously learning and aiming to become a skilled Data Scientist. 🚀
+Hi, I'm a B.Tech Data Science student passionate about working with data and building machine learning solutions.<br>I’m continuously learning and aiming to become a skilled Data Scientist. 🚀
 
 
 ## 🌐 Connect with me:
